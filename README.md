@@ -105,6 +105,13 @@ Exact key → value                 Feature vector → class            Skill ve
 | Regex (`re`) | Project 3 |
 
 ---
+## 📌 About This Repository
+
+This repository documents my journey through the **DecodeLabs AI Engineering Internship — Batch 2026**. Each project is a hands-on milestone that builds on the last — starting from pure logic and control flow, progressing through supervised learning, and into intelligent recommendation systems.
+
+> *"The absolute best way to master Artificial Intelligence is through hands-on practice, not just theory."* — DecodeLabs
+
+---
 ---
 
 ## 👨‍💻 About Me
@@ -133,13 +140,7 @@ Currently interning at **DecodeLabs** as an AI/ML Engineer, where I develop and 
 
 ---
 
-## 📌 About This Repository
 
-This repository documents my journey through the **DecodeLabs AI Engineering Internship — Batch 2026**. Each project is a hands-on milestone that builds on the last — starting from pure logic and control flow, progressing through supervised learning, and into intelligent recommendation systems.
-
-> *"The absolute best way to master Artificial Intelligence is through hands-on practice, not just theory."* — DecodeLabs
-
----
 ## 🏢 About DecodeLabs
 
 DecodeLabs is an industrial training organization based in Greater Lucknow, India, focused on building real-world AI engineering skills through hands-on project-based learning.
